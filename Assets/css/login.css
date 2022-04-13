@@ -1,0 +1,26 @@
+#login-page {
+    display: flex;
+    justify-content: center;
+}
+.login-container {
+    margin-top: 2rem;
+}
+.form-highlight {
+    color: #DA0037;
+}
+.form-link-out:hover {
+    color: #a9002a;
+    cursor: pointer;
+}
+.login-utilities {
+    display: flex;
+    justify-content: space-between;
+}
+#remember-me {
+    width: 2rem;
+}
+.login-btn {
+    width: 6rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
